@@ -1,0 +1,44 @@
+.panda-bg-secondary{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.dollar{
+    color: #ff136f;
+}
+
+.margin-top{
+    margin-top: 150px;
+}
+
+.img-sizer img{
+    height: 100px;
+    width: 100px;
+}
+
+.rad-fix{
+    border-radius: 15px;
+}
+
+.cat-padding{
+    padding: 10px 30px;
+}
+
+.orange{
+    background-color: orange;
+}
+.orchid{
+    background-color: orchid;
+}
+.blue{
+    background-color: blue;
+}
